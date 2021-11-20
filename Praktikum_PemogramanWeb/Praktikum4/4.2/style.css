@@ -1,0 +1,101 @@
+.atsbwh {
+  background-color: rgb(48, 231, 88);
+}
+
+body {
+  margin: 0;
+  background-color: rgb(173, 255, 177);
+}
+
+nav {
+  border: solid 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(48, 231, 88);
+}
+
+div #div1 {
+  margin-top: 10px;
+  justify-content: left;
+}
+
+#div1 ul {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+}
+
+#div2 {
+  margin-left: 600px;
+}
+
+#div2 ul {
+  display: flex;
+  list-style-type: none;
+  gap: 10px;
+}
+
+#div3 {
+  margin-left: 50px;
+  display: flex;
+  width: 90%;
+}
+
+.kotak1 {
+  display: flexbox;
+  margin-bottom: 100px;
+}
+
+.kotak1 #isi {
+  display: flex;
+  height: 134px;
+  width: 957.33;
+  width: 328px;
+}
+
+.centang {
+  margin-top: 50px;
+  width: 60px;
+  height: 60px;
+}
+
+hr {
+  width: 85%;
+  margin-left: 20px;
+  border-width: 1.5px;
+  border-style: solid;
+}
+
+#div4 {
+  padding-left: 22px;
+}
+#div5 {
+  padding-left: 22px;
+}
+
+#div5 table {
+  border: 0;
+  width: 50%;
+}
+
+form {
+  margin-left: 600px;
+}
+
+input {
+  border: 4px solid black;
+  height: 20px;
+  width: 217.5px;
+  z-index: 1;
+  margin-top: -40px;
+}
+
+button {
+  margin-left: -119.1px;
+  border: 1.5px solid grey;
+  background-color: grey;
+  color: white;
+  height: 22px;
+  width: 115px;
+  z-index: 2;
+}
