@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  text-align: center;
+  margin: 2rem 0px 2rem;
+}
+
+.countainer {
+  border: solid 2px;
+  margin: 2rem 5rem 2rem;
+  display: flex;
+  padding: 2rem;
+}
+
+.lingkaran {
+  background-color: aqua;
+  width: 25%;
+  vertical-align: middle;
+  margin: 0.2rem;
+  padding: 2rem;
+}
+
+.kurs {
+  background-color: rgb(218, 68, 255);
+  width: 25%;
+  margin: 0.2rem;
+  padding: 2rem;
+}
+
+.parkir {
+  background-color: chartreuse;
+  width: 25%;
+  margin: 0.2rem;
+  padding: 2rem;
+}
+
+.autosum {
+  background-color: darkgoldenrod;
+  width: 25%;
+  margin: 0.2rem;
+  padding: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-weight: bolder;
+}
